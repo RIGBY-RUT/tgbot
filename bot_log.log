@@ -1,0 +1,270 @@
+[06.12.2016 11:40:36] osnova.py:77 INFO - [VK] Started scanning for new posts
+[06.12.2016 11:40:49] osnova.py:77 INFO - [VK] Started scanning for new posts
+[09.12.2016 13:58:56] osnova.py:82 INFO - [VK] Started scanning for new posts
+[09.12.2016 13:58:56] osnova.py:88 INFO - Previous last_id is 10
+[09.12.2016 13:58:56] osnova.py:112 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[09.12.2016 13:58:56] osnova.py:114 INFO - [VK] Finished scanning
+[09.12.2016 13:58:56] osnova.py:128 INFO - [App] Script went to sleep.
+[09.12.2016 14:00:45] osnova.py:82 INFO - [VK] Started scanning for new posts
+[09.12.2016 14:00:45] osnova.py:88 INFO - Previous last_id is 4379
+[09.12.2016 14:00:46] osnova.py:112 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[09.12.2016 14:00:46] osnova.py:114 INFO - [VK] Finished scanning
+[09.12.2016 14:00:46] osnova.py:128 INFO - [App] Script went to sleep.
+[09.12.2016 14:01:37] osnova.py:80 INFO - [VK] Started scanning for new posts
+[09.12.2016 14:01:37] osnova.py:86 INFO - Previous last_id is 4379
+[09.12.2016 14:01:38] osnova.py:110 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[09.12.2016 14:01:38] osnova.py:112 INFO - [VK] Finished scanning
+[09.12.2016 14:01:38] osnova.py:126 INFO - [App] Script went to sleep.
+[09.12.2016 14:03:33] osnova.py:80 INFO - [VK] Started scanning for new posts
+[09.12.2016 14:03:33] osnova.py:86 INFO - Previous last_id is 4379
+[09.12.2016 14:03:34] osnova.py:110 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[09.12.2016 14:03:34] osnova.py:112 INFO - [VK] Finished scanning
+[09.12.2016 14:03:34] osnova.py:126 INFO - [App] Script went to sleep.
+[09.12.2016 14:05:28] osnova.py:81 INFO - [VK] Started scanning for new posts
+[09.12.2016 14:05:28] osnova.py:87 INFO - Previous last_id is 4379
+[09.12.2016 14:05:28] osnova.py:111 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[09.12.2016 14:05:28] osnova.py:113 INFO - [VK] Finished scanning
+[09.12.2016 14:05:28] osnova.py:127 INFO - [App] Script went to sleep.
+[09.12.2016 15:07:04] vkpost.py:50 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:07:04] vkpost.py:56 INFO - Previous last_id is 4379
+[09.12.2016 15:07:05] vkpost.py:80 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[09.12.2016 15:07:05] vkpost.py:82 INFO - [VK] Finished scanning
+[09.12.2016 15:07:05] vkpost.py:96 INFO - [App] Script went to sleep.
+[09.12.2016 15:10:03] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:10:03] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:10:03] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:10:03] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:10:03] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:14:03] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:14:03] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:14:04] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:14:04] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:14:04] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:18:04] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:18:04] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:18:05] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:18:05] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:18:05] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:22:05] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:22:05] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:22:06] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:22:06] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:22:06] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:26:06] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:26:06] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:26:06] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:26:06] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:26:06] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:30:06] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:30:06] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:30:07] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:30:07] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:30:07] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:34:07] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:34:07] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:34:09] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:34:09] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:34:09] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:38:09] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:38:09] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:38:09] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:38:09] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:38:09] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:42:09] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:42:09] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:42:20] vkpost.py:91 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=fititb&count=10&filter=owner (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03F530B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+[09.12.2016 15:42:20] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:42:20] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:46:20] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:46:20] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:46:20] vkpost.py:91 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=fititb&count=10&filter=owner (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x03F530D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+[09.12.2016 15:46:20] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:46:20] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:50:20] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:50:20] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:50:21] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:50:21] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:50:21] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:54:21] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:54:21] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:54:24] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:54:24] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:54:24] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 15:58:24] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 15:58:24] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 15:58:27] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 15:58:27] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 15:58:27] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 16:02:27] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 16:02:27] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 16:02:27] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 16:02:27] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 16:02:27] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 16:06:27] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 16:06:27] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 16:06:27] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 16:06:27] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 16:06:27] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 16:10:27] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 16:10:27] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 16:10:29] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 16:10:29] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 16:10:29] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 16:14:29] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 16:14:29] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 16:14:52] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 16:14:52] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 16:14:52] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:05:15] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:05:15] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:05:15] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:05:15] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:05:15] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:09:15] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:09:15] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:09:16] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:09:16] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:09:16] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:13:16] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:13:16] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:13:18] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:13:18] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:13:18] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:17:18] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:17:18] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:17:19] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:17:19] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:17:19] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:21:19] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:21:19] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:21:19] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:21:19] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:21:19] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:25:19] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:25:19] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:25:21] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:25:21] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:25:21] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:29:21] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:29:21] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:29:22] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:29:22] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:29:22] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:33:22] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:33:22] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:33:22] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:33:22] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:33:22] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:37:22] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:37:22] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:37:23] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:37:23] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:37:23] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:41:23] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:41:23] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:41:34] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:41:34] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:41:34] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:45:34] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:45:34] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:45:34] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:45:34] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:45:34] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:49:34] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:49:34] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:49:36] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:49:36] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:49:36] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:53:36] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:53:36] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:53:37] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:53:37] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:53:37] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 18:57:37] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 18:57:37] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 18:57:37] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 18:57:37] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 18:57:37] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:01:37] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:01:37] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:01:37] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:01:37] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:01:37] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:05:37] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:05:37] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:05:38] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:05:38] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:05:38] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:09:38] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:09:38] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:09:39] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:09:39] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:09:39] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:13:39] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:13:39] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:13:39] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:13:39] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:13:39] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:17:39] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:17:39] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:17:39] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:17:39] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:17:39] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:22:18] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:22:18] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:22:18] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:22:18] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:22:18] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:26:18] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:26:18] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:26:19] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:26:19] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:26:19] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:30:19] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:30:19] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:30:19] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:30:19] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:30:19] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:34:19] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:34:19] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:34:20] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:34:20] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:34:20] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:38:20] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:38:20] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:38:21] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:38:21] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:38:21] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:42:21] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:42:21] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:42:22] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:42:22] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:42:22] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:46:22] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:46:22] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:46:22] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:46:22] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:46:22] vkpost.py:107 INFO - [App] Script went to sleep.
+[09.12.2016 19:50:22] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[09.12.2016 19:50:22] vkpost.py:67 INFO - Previous last_id is 4383
+[09.12.2016 19:50:22] vkpost.py:86 INFO - New last_id (VK) is 4383
+[09.12.2016 19:50:22] vkpost.py:93 INFO - [VK] Finished scanning
+[09.12.2016 19:50:22] vkpost.py:107 INFO - [App] Script went to sleep.
+[10.12.2016 16:00:44] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[10.12.2016 16:00:44] vkpost.py:67 INFO - Previous last_id is 4383
+[10.12.2016 16:00:45] vkpost.py:91 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[10.12.2016 16:00:45] vkpost.py:93 INFO - [VK] Finished scanning
+[10.12.2016 16:00:45] vkpost.py:107 INFO - [App] Script went to sleep.
+[10.12.2016 16:04:45] vkpost.py:61 INFO - [VK] Started scanning for new posts
+[10.12.2016 16:04:45] vkpost.py:67 INFO - Previous last_id is 4383
+[10.12.2016 16:04:55] vkpost.py:91 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: chat not found"}']
+[10.12.2016 16:04:55] vkpost.py:93 INFO - [VK] Finished scanning
+[10.12.2016 16:04:55] vkpost.py:107 INFO - [App] Script went to sleep.
