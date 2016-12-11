@@ -55,7 +55,7 @@ def send_welcome(start):
     keyboard = types.InlineKeyboardMarkup(True)
     button = types.InlineKeyboardButton(text="Изменить и запомнить название группы", callback_data="/setgroup")
     button1 = types.InlineKeyboardButton(text="Получить расписание", callback_data="/table")
-    button2 = types.InlineKeyboardButton(text="Cкачать расписание", callback_data="/table_ofline")
+    button2 = types.InlineKeyboardButton(text="Cкачать расписание", callback_data="/table_online")
     button3 = types.InlineKeyboardButton(text="Расписание зимней сессии 2016", callback_data="/session")
     keyboard.add(button, button1, button2, button3)
     bot.send_message(start.chat.id, "Или выбери из списка", reply_markup=keyboard)
